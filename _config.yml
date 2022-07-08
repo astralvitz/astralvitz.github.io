@@ -28,7 +28,7 @@ twitter_username: astralvitz
 github_username:  astralvitz
 
 # Build settings
-theme: minima
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
 
