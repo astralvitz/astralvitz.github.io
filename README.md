@@ -1,5 +1,7 @@
 # Astralvitz Dev Blog
-Quick little jeckyll-githubpages website to journal my journey learning to code again.
+Quick little [jeckyll-githubpages website][website] to journal my journey learning to code again.
+
+[website]: https://astralvitz.github.io/
 
 ### sample code block and linking example
 {% highlight ruby %}
