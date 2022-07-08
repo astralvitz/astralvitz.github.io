@@ -2,7 +2,6 @@
 layout: post
 title:  "Dev Blog: Day Three"
 date:   2022-07-07 19:37:37 -0400
-categories: dev update
 ---
 Unsure how to structure this dev blog... I'm just going to type.
 

@@ -2,7 +2,6 @@
 layout: post
 title:  "Hello World, Again"
 date:   2022-07-07 15:57:07 -0400
-categories: personal update
 ---
 Hello, world - again. I am just some random developer who, after six years of various employments and a decade of tinkering with dozens of technologies, stepped away from software development due to a complex combination of imposter syndrome, burnout, employment mismanagement, depression, addiction and a pandemic-inspired soul-searching quest.
 
