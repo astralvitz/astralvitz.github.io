@@ -3,6 +3,9 @@ Quick little [jeckyll-githubpages website][website] to journal my journey learni
 
 [website]: https://astralvitz.github.io/
 
+### dev notes
+chruby 3.1.2 && jekyll serve
+
 ### sample code block and linking example
 {% highlight ruby %}
 def print_hi(name)
