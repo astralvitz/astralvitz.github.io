@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "What A Detour"
+date:   2023-05-06 11:37:37 -0400
+---
+10 months since those three blog posts which were full of "This is it! *This* is the great restart!"
+
+What happened?
+
+I went on for a couple months learning and coding, but got more involved with *dozens* of interviews with companies that went nowhere, and taking on more of a product owner & public relations role with my then-business partner on a couple blockchain-based projects. Those, and the fellowship I was in, and the few other projects I was juggling, went nowhere. Several multi-stage interviews, nowhere. The self-doubt arose again and I considered if I shouldn't be doing development at all. After all, I had experienced profound change over the year from conquering fears including public speaking, to losing a lot of weight, to growing spiritually, and all sorts of experiences which led me to think that *maybe writing code is my old life that was never really my path to begin with*.
+
+After working a few seasonal jobs (including at a Renaissance faire!), crashing and burning with personal projects and relationships, and undergoing the next stage of deep introspection & individuation through the winter, I emerge into a much more equanimous, grounded and purposeful version of myself. No more do I regret *anything*, for *everything* has brought me entirely here in alignment and with unlimited vision & opportunity. I am embracing *all* of me, including my shamed **idea guy** essence. After all, everyone has ideas, and it's execution that differentiates winners from losers. But I'm not trying to "win" anymore, nor prove anything to anyone. I have ideas that still, years later, inspire me greatly - the differences now are (1) I'm embracing my capabilities to connect, inspire, collaborate and lead, (2) I've replaced the selfish desires with purely service-based ones (and will deflect any criticism otherwise, for people do not see the grand long-term vision or my humility before God), and (3) I know even greater ideas will emerge as I walk through the current ones.
+
+I do not like talking about my ideas much anymore - I need to *show* them. I have *so* much written in my journals so far this year that will materialize into essays and podcasts, and the software & organization ideas are taking form. I am mastering the fire within; less raging forest inferno, more welding torch arc.
+
+> The tsunami of ideas are taking physical form. Ten years of ideation and multidimensional exploration coalescing into a terraforming tide. Will you run from shore or swim to meet it?
+
+I see in hindsight that self-aggrandizing my potential might hinder more than help. I wax poetically, and I should probably channel this into fiction. Well, I have been, and I have much of my own Tolkein epic fantasy world ideated with characters, cultures, stories, languages, religions & cults, etc. So much of the real world to explore and comment on creatively, so I shall. Still only *one* piece in the grand vision.
+
+Previously, I had "renaissance man" in my Twitter bio as the only way to succinctly express the imaginative chaos churning in my mind & soul (after cycling through a hundred titles), but then I felt weird and imposterish because I've yet to show the world I am one. And, titles get in the way anyway. No labeling, no judgment - just expression, just **is**-ness. Doesn't matter if I leave a legacy, doesn't matter if I achieve - I am existing, and growing, and doing my best. I am kind to others, I spread optimism and joy even when rejected, and I spend every waking hour attempting to better myself & the world. That's all that can be asked for. My legacy is one of *trying* in the face of adversity, from the external or from foolish internal self-infliction. No more delusions of grandeur, no more imposter syndrome, no more overthinking. Just connecting & creating. Just living, laughing, loving. Am I really ending this post like this? Hahaha.
