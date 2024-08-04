@@ -1,3 +1,7 @@
+:root {
+  font-size: 1rem; /* Adjust the base font size as needed */
+}
+
 body, html {
   margin: 0;
   padding: 0;
@@ -8,19 +12,19 @@ body, html {
   align-items: center;
   font-family: Arial, sans-serif;
   background-color: #f0f0f0;
-  background: url('assets/bg.jpg') no-repeat center center fixed;
+  background: url('assets/bg_wiz6.jpg') no-repeat center center fixed;
   background-size: cover;
+  overflow: hidden;
 }
-.center-container {
+.container {
   text-align: center;
 }
 .image {
-  max-width: 78%;
+  max-width: 100%;
+  width: auto;
   height: auto;
   margin: auto;
-}
-.navmenu {
-  margin-top: 20px;
+  box-shadow: 0 0 2rem rgba(0, 0, 0, 0.3);
 }
 .navmenu a {
   margin: 0 15px;
@@ -31,9 +35,53 @@ body, html {
   text-decoration: underline;
 }
 
+/* star */
+
+.clipstarshape {
+  clip-path: url(#star-cp);
+  
+  width: 40vh;
+  height: 40vh;
+  max-height: 40vh;
+  max-width: 40vh;
+  
+  background-size: cover;
+  background-blend-mode: screen;
+  margin: auto;
+}
+
+.clipcontent {
+  /* background-color: rgb(20 83 45); */
+  background-image: url("assets/astralvitz.jfif");
+}
+
+/* bottom navbar */
+.footermenu {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 1rem 0;
+  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.footermenu a {
+  margin: 0 1.5rem;
+  text-decoration: none;
+  color: white;
+  font-size: 1.2rem;
+}
+
+.footermenu a:hover {
+  text-decoration: underline;
+}
+
 /* experiment */
 
-.dissolving-border {
+/* .dissolving-border {
   position: relative;
   display: inline-block;
 }
@@ -73,4 +121,4 @@ body, html {
   100% {
       clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%);
   }
-}
+} */
