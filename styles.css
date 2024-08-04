@@ -1,0 +1,76 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  background: url('assets/bg.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+.center-container {
+  text-align: center;
+}
+.image {
+  max-width: 78%;
+  height: auto;
+  margin: auto;
+}
+.navmenu {
+  margin-top: 20px;
+}
+.navmenu a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #A13A3B;
+}
+.navmenu a:hover {
+  text-decoration: underline;
+}
+
+/* experiment */
+
+.dissolving-border {
+  position: relative;
+  display: inline-block;
+}
+
+.dissolving-border img {
+  display: block;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+}
+
+.dissolving-border::before {
+  content: '';
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  bottom: -10px;
+  left: -10px;
+  border-radius: 15px;
+  background: radial-gradient(circle, transparent, rgba(0, 0, 0, 0.5));
+  pointer-events: none;
+  animation: dissolve 4s infinite;
+}
+
+@keyframes dissolve {
+  0% {
+      clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%);
+  }
+  25% {
+      clip-path: polygon(10% 0%, 100% 0%, 100% 90%, 0% 100%);
+  }
+  50% {
+      clip-path: polygon(0% 10%, 90% 0%, 100% 100%, 0% 100%);
+  }
+  75% {
+      clip-path: polygon(0% 0%, 100% 10%, 90% 100%, 0% 90%);
+  }
+  100% {
+      clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%);
+  }
+}
